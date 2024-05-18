@@ -23,7 +23,8 @@ export const CreditCardContainer = styled.div`
 
   @media screen and (max-width: 567px) {
     min-height: 50vh;
-    padding: 10px;
+    width: 100vw;
+    padding: 30px;
   }
 `
 
@@ -93,7 +94,8 @@ export const UserDetailsContainer = styled.div`
 
   @media screen and (max-width: 567px) {
     min-height: 50vh;
-    padding: 10px;
+    padding: 30px;
+    width: 100vw;
   }
 `
 
